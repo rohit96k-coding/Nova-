@@ -1,0 +1,103 @@
+{
+  "wake_words": [
+    "nova",
+    "hey nova"
+  ],
+  "default_language": "english",
+  "language_map": {
+    "english": {
+      "key": "en",
+      "stt": "en-IN",
+      "gtts": "en"
+    },
+    "hindi": {
+      "key": "hi",
+      "stt": "hi-IN",
+      "gtts": "hi"
+    },
+    "marathi": {
+      "key": "mr",
+      "stt": "mr-IN",
+      "gtts": "mr"
+    },
+    "spanish": {
+      "key": "es",
+      "stt": "es-ES",
+      "gtts": "es"
+    },
+    "french": {
+      "key": "fr",
+      "stt": "fr-FR",
+      "gtts": "fr"
+    },
+    "german": {
+      "key": "de",
+      "stt": "de-DE",
+      "gtts": "de"
+    },
+    "portuguese": {
+      "key": "pt",
+      "stt": "pt-PT",
+      "gtts": "pt"
+    },
+    "russian": {
+      "key": "ru",
+      "stt": "ru-RU",
+      "gtts": "ru"
+    },
+    "chinese": {
+      "key": "zh",
+      "stt": "zh-CN",
+      "gtts": "zh-cn"
+    },
+    "japanese": {
+      "key": "ja",
+      "stt": "ja-JP",
+      "gtts": "ja"
+    },
+    "korean": {
+      "key": "ko",
+      "stt": "ko-KR",
+      "gtts": "ko"
+    },
+    "arabic": {
+      "key": "ar",
+      "stt": "ar-SA",
+      "gtts": "ar"
+    },
+    "bengali": {
+      "key": "bn",
+      "stt": "bn-IN",
+      "gtts": "bn"
+    },
+    "urdu": {
+      "key": "ur",
+      "stt": "ur-PK",
+      "gtts": "ur"
+    },
+    "punjabi": {
+      "key": "pa",
+      "stt": "pa-IN",
+      "gtts": "pa"
+    },
+    "tamil": {
+      "key": "ta",
+      "stt": "ta-IN",
+      "gtts": "ta"
+    },
+    "telugu": {
+      "key": "te",
+      "stt": "te-IN",
+      "gtts": "te"
+    },
+    "kannada": {
+      "key": "kn",
+      "stt": "kn-IN",
+      "gtts": "kn"
+    }
+  },
+  "tts_rate": 150,
+  "assistant_name": "Nova",
+  "use_gtts": true,
+  "gtts_temp_path": "data/tts_temp.mp3"
+}
